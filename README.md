@@ -9,4 +9,4 @@ To run Logistic Regression, KNN, SVM, Decision Tree, Random Forest and Adaboost 
    
 # Display of result
 
-![Result compare](cmp.jpg)
+![Result compare](cmp.png)
