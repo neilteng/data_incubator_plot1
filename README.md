@@ -13,5 +13,6 @@ The mortality rate of training set is:0.135345
 
 The mortality rate of training set is:0.11557478
 
-The Accuracy tell us that machine learning approahes have power to do better than ramdon guess which suggests a more advanced time series model could produce a better prediction.
+The Accuracy tells us that machine learning approahes have power to do better than ramdon guess which suggests a more advanced time series model could produce a better prediction.
+
 ![Result compare](cmp.png)
