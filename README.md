@@ -1,6 +1,8 @@
 # data_incubator_plot2
 Display of analysis plot 2
 
+P.S.(the data set needs to get from MIMC which is not distributed without any permission)
+
 ## Machine learning models
 To run Logistic Regression, KNN, SVM, Decision Tree, Random Forest and Adaboost on preprocessed data, please run the following command in terminal in the following directory: `src/` and make sure preprocessed data is in the directory: `data/preprocessed_data/`. The results will be printed in the terminal. The Anaconda base environment is enough for these models.
 
